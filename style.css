@@ -129,7 +129,7 @@ body{
     }
     .container{
         width: 70vw;
-        height: 40vh;
+        height: 50vh;
         padding: 1.5rem;
     }
     .icon{
@@ -146,6 +146,9 @@ body{
     .tittle{
         margin-top: 0rem;
         margin-bottom: -1.8rem;
+    }
+    .paragraph-thank{
+        margin-top: 0.2rem;
     }
     .number-button{
         width: 3rem;
